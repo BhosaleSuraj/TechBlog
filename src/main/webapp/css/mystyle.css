@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+body{
+	
+}
+.primary-background{
+	background: Aquamarine!important;
+}
+.jumbotron{
+	background: cyan!important;
+	
+}
+.card-header
+{
+	background: cyan!important;
+	
+}
+.bg{
+	background:LightCyan!important;
+}
+
+
